@@ -60,3 +60,6 @@ An interactive dashboard was created in Power BI showing:
 Superstore dataset (Excel format)
 
 <img src="https://i.postimg.cc/vHNBrKBF/power-bi-sum-of-sales.png"/>
+
+<hr/>
+<img src="https://s6.ezgif.com/tmp/ezgif-6f9ac1c16ad7fec2.gif"/>
